@@ -65,7 +65,7 @@ function colors(color) {
     case 'blue': return 'This is blue';
     break;
     case 'red': return 'This is red';
-    break;
+    break; 
     case 'green': return 'This is green';
     break;
     case 'orange': return 'This is orange';
