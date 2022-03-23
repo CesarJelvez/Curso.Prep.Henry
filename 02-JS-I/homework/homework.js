@@ -245,7 +245,7 @@ function esVocal(letra){
     return 'Dato incorrecto';
   } else (letra != 'A' || letra != 'E' || letra != 'I' || letra != 'O' || letra != 'U')
     return 'Dato incorrecto';
-}
+} 
 
 
 
